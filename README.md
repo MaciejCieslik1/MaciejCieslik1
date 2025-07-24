@@ -15,5 +15,4 @@ I’m always looking to improve my programming skills, especially in low-level s
 
 ## 📬 Contact
 - **LinkedIn**: [Maciej Cieślik](https://www.linkedin.com/in/maciej-cie%C5%9Blik-1ab60a290/)
-- **Instagram**: [@maciek_cieslik](https://www.instagram.com/maciek_cieslik)
 - **Support**: Email [maciej.cieslik.official@gmail.com](mailto:maciej.cieslik.official@gmail.com)
