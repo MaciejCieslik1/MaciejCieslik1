@@ -11,7 +11,7 @@ I'm a second-year student at Warsaw University of Technology, currently pursuing
   Second-year student specializing in Computer Science.
 
 ## 💡 Goals
-I’m always looking to improve my programming skills, especially in low-level system design and game development. I also aim to explore more advanced topics in computer architecture and graphics rendering.
+I’m always looking to improve my programming skills, especially in creating web apps and game development. I also aim to explore more advanced topics in computer architecture and graphics rendering.
 
 ## 📬 Contact
 - **LinkedIn**: [Maciej Cieślik](https://www.linkedin.com/in/maciej-cie%C5%9Blik-1ab60a290/)
