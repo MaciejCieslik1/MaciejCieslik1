@@ -3,7 +3,7 @@
 I'm a third-year student at Warsaw University of Technology, currently pursuing a degree in Computer Science. I'm passionate about coding, system architecture, and game development. I love to learn new technologies and tackle challenging projects.
 
 ## 🌟 Skills & Interests
-- **Languages:** Python, Java, C++, Assembly
+- **Languages:** Python, Java, C++, Sql
 - **Other Interests:** Programming, Game Development, Chess, History
 
 ## 🎓 Education
