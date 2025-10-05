@@ -4,7 +4,7 @@ I'm a third-year student at Warsaw University of Technology, currently pursuing 
 
 ## 🌟 Skills & Interests
 - **Languages:** Python, Java, C++, Assembly
-- **Other Interests:** Programming, Game Development, Sports, History
+- **Other Interests:** Programming, Game Development, Chess, History
 
 ## 🎓 Education
 - **Warsaw University of Technology**  
